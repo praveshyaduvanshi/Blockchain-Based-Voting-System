@@ -4,6 +4,13 @@ A secure and transparent voting system built using Blockchain technology. This p
 
 ---
 
+
+## 🚀 Live Link
+https://luminous-crostata-3beb11.netlify.app/
+
+---
+
+
 ## 🚀 Features
 
 - 🔐 Secure authentication for voters
