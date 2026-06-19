@@ -50,13 +50,13 @@ blockchain-voting-system/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/blockchain-voting-system.git
+git clone https://github.com/praveshyaduvanshi/blockchain-voting-system.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd blockchain-voting-system
+cd Voting Poject
 ```
 
 3. Open `index.html` in your browser:
