@@ -40,7 +40,6 @@ blockchain-voting-system/
 ├── index.html
 ├── style.css
 ├── script.js
-├── blockchain.js
 └── README.md
 ```
 
